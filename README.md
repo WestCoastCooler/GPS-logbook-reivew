@@ -1,2 +1,3 @@
 # GPS-logbook-reivew
-Applying static testing techniques
+Applying static testing techniques.
+Document review.
