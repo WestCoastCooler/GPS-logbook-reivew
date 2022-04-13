@@ -7,4 +7,4 @@ The GPS Log Book User Manual document was reviewed using checklist, and errors w
 
 ---
 
-There is also an .xlsx file attached, that was used to organize and record the bugs that were found.
+There is also an .xlsx file attached, which was used to organize and record the bugs that were found, being a great help while translating them into Jira.
